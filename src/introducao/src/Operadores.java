@@ -67,15 +67,15 @@ public class Operadores {
         System.out.println("");
 
         int contador = 0;
-        int contador2 = 0;
+        int contador2 = 5;
 
         contador++;
         System.out.println("Contador: " + contador);
         contador--;
         System.out.println("Contador: " + contador);
         ++contador2;
-        System.out.println("Contador: " + contador);
+        System.out.println("Contador: " + contador2);
         --contador2;
-        System.out.println("Contador: " + contador);
+        System.out.println("Contador: " + contador2);
     }
 }
